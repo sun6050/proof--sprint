@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sun6050.github.io/proof-sprint/sitemap.xml
